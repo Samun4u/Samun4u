@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Samun's GitHub Banner](./assets/github_banner.jpg)](http://sambiv.com/)
 <!--
 **Samun4u/Samun4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
